@@ -14,3 +14,10 @@ python3 scripts/export_grid.py master.png outputs --name '秋日连幅'
 ```
 
 脚本输出无缝整图、带缝预览和包含九张单图的 ZIP。发朋友圈时按 01 到 09 的顺序选图。
+
+## 技能文件
+
+- [SKILL.md](SKILL.md) 是工作入口，说明使用范围和整体流程。
+- [构图与跨格](references/composition.md) 说明怎样从参考图识别连续关系，并安排实拍主景和次景。
+- [透明贴纸与题字](references/stickers-and-lettering.md) 说明素材生成、重用、透明边缘和竖排书法。
+- [修订、导出与验收](references/revision-and-delivery.md) 给出删图、置顶和检查裁切的做法。
