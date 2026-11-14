@@ -15,6 +15,12 @@ python3 scripts/export_grid.py master.png outputs --name '秋日连幅'
 
 脚本输出无缝整图、带缝预览和包含九张单图的 ZIP。发朋友圈时按 01 到 09 的顺序选图。
 
+## 实拍处理案例
+
+[天平山秋日连幅](examples/tianping-mountain/) 展示石洞、雾湖、夜灯原片如何跨格，并附有成品母版和可直接试跑的导出命令。
+
+[![天平山九宫格预览](examples/tianping-mountain/preview.jpg)](examples/tianping-mountain/)
+
 ## 技能文件
 
 - [SKILL.md](SKILL.md) 是工作入口，说明使用范围和整体流程。
